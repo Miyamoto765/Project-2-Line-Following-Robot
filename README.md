@@ -2,8 +2,6 @@
 
 Arduino Uno based robot that autonomously follows a black line on a white surface using IR sensors and an L298N motor driver.
 
-**Internship:** Soft Nexis Technology – Embedded Systems (Project 2)
-
 ---
 
 ## Overview
